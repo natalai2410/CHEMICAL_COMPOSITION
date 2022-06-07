@@ -5,7 +5,7 @@
 	letter-spacing: 0;
 	text-align: center;
 
-	/*writing-mode: vertical-lr;*/
 	writing-mode: vertical-rl;
-	border: 1px solid blue;
+	transform:rotate(180deg);
+	border: 1px solid #b9b9b9;
 }
