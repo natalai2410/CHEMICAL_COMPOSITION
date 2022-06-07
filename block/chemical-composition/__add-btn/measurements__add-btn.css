@@ -1,0 +1,6 @@
+.chemical-composition__add-btn{
+	width: 100%;
+	display: flex;
+	justify-content: end;
+	margin-bottom: 24px;
+}

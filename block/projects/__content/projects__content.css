@@ -1,0 +1,11 @@
+
+.projects__content {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	z-index: 0;
+	border-radius: 8px;
+	border: 1px solid black;
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+	linear-gradient(277.87deg, #174044 -14.74%, #2DA798 77.18%);
+}

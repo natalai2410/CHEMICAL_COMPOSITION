@@ -1,0 +1,9 @@
+.table__item {
+	display: grid;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	/*grid-template-rows: repeat(auto-fill, minmax(80px, 1fr));*/
+	grid-template-rows: 100px 100px;
+	/*grid-template-columns: 60px 60px;;*/
+}

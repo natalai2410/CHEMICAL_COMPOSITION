@@ -1,0 +1,12 @@
+.projects__title {
+	text-align: left;
+	z-index: 1;
+	margin-bottom: 32px;
+	margin-left: 56px;
+	color: white;
+
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 32px;
+	letter-spacing: 0;
+}

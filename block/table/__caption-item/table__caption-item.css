@@ -1,0 +1,22 @@
+.table__caption-item{
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+	letter-spacing: 0;
+	text-align: left;
+	color: black;
+	margin: 0 0 10px;
+}
+
+/*1-й элемент*/
+.table__caption-item:nth-child(1){
+ }
+
+/*2-й элемент*/
+.table__caption-item:nth-child(2){
+	text-align: center;
+}
+/*3-й элемент*/
+.table__caption-item:nth-child(3){
+	text-align: end;
+}

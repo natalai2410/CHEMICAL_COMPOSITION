@@ -1,0 +1,11 @@
+.table__line-item{
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 20px;
+	letter-spacing: 0;
+	text-align: center;
+
+	/*writing-mode: vertical-lr;*/
+	writing-mode: vertical-rl;
+	border: 1px solid blue;
+}

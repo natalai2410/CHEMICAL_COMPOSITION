@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>CHEMICAL COMPOSITION</title>
+	<link href="page/index.css" rel="stylesheet">
+	<link href="vendor/normalize.css" rel="stylesheet">
+</head>
+<body>
+
+<section class="chemical-composition">
+	<div class="container">
+		<div class="chemical-composition__content">
+			<div class="chemical-composition__title">CHEMICAL COMPOSITION</div>
+			<div class="chemical-composition__add-btn">
+				<button type="button" class="chemical-composition__line-primary-default-btn">+ Добавить строку</button>
+			</div>
+
+			<div class="table">
+
+				<div class="table__content">
+
+					<div class="table__item">
+						<div class="table__line-item">1</div>
+						<div class="table__line-item">1 </div>
+					</div>
+
+					<div class="table__item">
+						<div class="table__line-item">2</div>
+						<div class="table__line-item">2 </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<template class="template" id="template-line-item">
+	<div class="table__item">
+		<div class="table__line-item" id="line-name">Стены</div>
+		<div class="table__line-item" id="line-value">45 м2</div>
+	</div>
+</template>
+
+<script src="scripts/index.js"></script>
+</body>
+</html>

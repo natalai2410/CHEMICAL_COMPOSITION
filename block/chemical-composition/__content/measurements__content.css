@@ -1,0 +1,7 @@
+.chemical-composition__content{
+	display: flex;
+	flex-direction: column;
+	box-shadow: 4px 0 35px 0 rgba(0, 0, 0, 0.18);
+	padding-left: 64px;
+	padding-right: 64px;
+}

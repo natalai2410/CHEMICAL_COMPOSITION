@@ -1,0 +1,6 @@
+.projects__tab-item_selected {
+	opacity: 1;
+	border: 1px solid #96D3CB;
+	border-bottom: 7px solid #96D3CB;
+	border-radius: 7px 7px 0 0;
+}

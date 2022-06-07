@@ -1,0 +1,15 @@
+.projects__status {
+	margin-top: 16px;
+	margin-left: 16px;
+	margin-bottom: 22px;
+	padding: 9px;
+
+	display: flex;
+	width: max-content;
+	color: #174044;
+	background: #E9E8E4;
+	opacity: 0.8;
+	border-radius: 4px;
+	text-align: left;
+	z-index: 2;
+}

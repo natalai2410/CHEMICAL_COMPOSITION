@@ -1,0 +1,12 @@
+.chemical-composition__line-primary-default-btn{
+	color: #174044;
+	border-radius: 7px;
+	border:1px solid #174044;
+	padding: 10px 0;
+	text-align: center;
+	width: 200px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 18px;
+	letter-spacing: 0;
+}

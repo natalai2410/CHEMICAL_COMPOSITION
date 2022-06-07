@@ -1,0 +1,29 @@
+@import url(../block/projects/projects.css);
+@import url(../block/projects/__content/projects__content.css);
+@import url(../block/projects/__status/projects__status.css);
+@import url(../block/projects/__tab-control/projects__tab-control.css);
+@import url(../block/projects/__tab-item/projects__tab-item.css);
+@import url(../block/projects/__tab-item/_selected/projects__tab-item_selected.css);
+@import url(../block/projects/__title/projects__title.css);
+
+@import url(../block/container/container.css);
+
+@import url(../block/chemical-composition/__add-btn/measurements__add-btn.css);
+@import url(../block/chemical-composition/__content/measurements__content.css);
+@import url(../block/chemical-composition/__line-primary-default-btn/measurements__line-primary-default-btn.css);
+@import url(../block/chemical-composition/__title/measurements__title.css);
+
+@import url(../block/chemical-composition/__accept-btn/measurements__accept-btn.css);
+@import url(../block/chemical-composition/__primary-default-btn/measurements__primary-default-btn.css);
+
+@import url(../block/table/table.css);
+@import url(../block/table/__caption/table__caption.css);
+@import url(../block/table/__caption-item/table__caption-item.css);
+@import url(../block/table/__line-item/table__line-item.css);
+@import url(../block/table/__cross-btn/table__cross-btn.css);
+@import url(../block/table/__item/table__item.css);
+
+
+
+
+

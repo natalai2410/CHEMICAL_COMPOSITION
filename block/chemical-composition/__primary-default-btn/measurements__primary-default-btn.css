@@ -1,0 +1,24 @@
+
+.measurements__primary-default-btn {
+	cursor: pointer;
+	border-style: none;
+	color: #FFFFFF;
+	background-color: #174044;
+	border-radius: 7px;
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: bold;
+	padding: 10px 0;
+	width: 200px;
+	text-align: center;
+}
+
+.measurements__primary-default-btn:hover {
+	background-color: #2DA798;
+ }
+
+.measurements__primary-default-btn_disabled {
+	color: #174044;
+	background-color: #FFFFFF;
+	border:  1px solid #174044;
+}

@@ -1,0 +1,11 @@
+.table__cross-btn{
+	height: 24px;
+	width: 24px;
+	background-repeat: no-repeat;
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M20 20L5 5' stroke='%23174044' stroke-linecap='round'/%3e%3cpath d='M20 5L5 20' stroke='%23174044' stroke-linecap='round'/%3e%3c/svg%3e ");
+
+	padding: 0;
+	background-color: transparent;
+	background-position: center;
+	border: none;
+}
